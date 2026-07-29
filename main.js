@@ -24,17 +24,17 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ──────────────────────────────────────────
      2. STICKY NAV — add 'scrolled' class on scroll
   ────────────────────────────────────────── */
-  const nav = document.getElementById('siteNav');
-  let lastScroll = 0;
+  const headerFixed = document.getElementById('headerFixed');
 
   window.addEventListener('scroll', () => {
     const scrollY = window.scrollY;
-    if (scrollY > 60) {
-      nav.classList.add('scrolled');
-    } else {
-      nav.classList.remove('scrolled');
+    if (headerFixed) {
+      if (scrollY > 40) {
+        headerFixed.classList.add('scrolled');
+      } else {
+        headerFixed.classList.remove('scrolled');
+      }
     }
-    lastScroll = scrollY;
   }, { passive: true });
 
 
