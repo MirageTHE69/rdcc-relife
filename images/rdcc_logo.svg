@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 160" width="100%" height="100%">
+  <!-- Orange Block R -->
+  <polygon points="12,24 132,30 125,120 18,126" fill="#EA6D29" />
+  <!-- White R letter inside block -->
+  <path d="M 45 42 H 82 C 98 42 108 50 108 64 C 108 76 98 84 82 85 L 106 112 H 82 L 62 86 H 62 V 112 H 45 V 42 Z M 62 56 V 73 H 78 C 88 73 92 68 92 64 C 92 59 88 56 78 56 H 62 Z" fill="#FFFFFF"/>
+  <circle cx="72" cy="64" r="5" fill="#EA6D29"/>
+
+  <!-- Dark Navy Blue Block D -->
+  <polygon points="137,30 257,32 249,120 130,120" fill="#204E79" />
+  <!-- White D letter inside block -->
+  <path d="M 158 43 H 195 C 224 43 240 58 240 81 C 240 104 224 113 195 113 H 158 V 43 Z M 176 57 V 99 H 192 C 210 99 220 90 220 81 C 220 71 210 57 192 57 H 176 Z" fill="#FFFFFF"/>
+  <!-- Ear Icon inside D -->
+  <path d="M 194 66 C 187 66 182 71 182 78 C 182 85 186 90 192 93 C 195 94 196 97 195 100 C 193 102 190 101 188 99 C 182 95 177 88 177 78 C 177 67 185 61 195 61 C 204 61 211 67 211 77 C 211 85 206 90 201 94 L 198 90 C 202 87 205 83 205 77 C 205 70 200 66 194 66 Z" fill="#204E79"/>
+
+  <!-- Green Block C -->
+  <polygon points="262,32 382,26 370,122 254,120" fill="#329447" />
+  <!-- White C letter inside green block -->
+  <path d="M 358 60 L 343 68 C 338 59 328 55 316 55 C 298 55 285 68 285 83 C 285 98 298 110 316 110 C 328 110 338 105 344 96 L 359 104 C 349 118 334 125 315 125 C 286 125 266 106 266 83 C 266 59 287 40 316 40 C 335 40 350 48 358 60 Z" fill="#FFFFFF"/>
+
+  <!-- Light Blue Block C -->
+  <polygon points="387,26 507,16 495,128 375,122" fill="#3096D1" />
+  <!-- White C letter inside light blue block -->
+  <path d="M 483 54 L 468 62 C 463 53 453 49 441 49 C 423 49 410 62 410 77 C 410 92 423 104 441 104 C 453 104 463 99 469 90 L 484 98 C 474 112 459 119 440 119 C 411 119 391 100 391 77 C 391 53 412 34 441 34 C 460 34 475 42 483 54 Z" fill="#FFFFFF"/>
+
+  <!-- TM symbol -->
+  <text x="510" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="13" fill="#204E79">TM</text>
+
+  <!-- Subtitle Text -->
+  <text x="14" y="152" font-family="'Outfit', 'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="14.5" letter-spacing="1.2" fill="#204E79">RELIFE DEVELOPMENT CENTER FOR CHILDREN / ADULTS</text>
+</svg>
